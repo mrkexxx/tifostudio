@@ -1,0 +1,8 @@
+{
+  "name": "Tifo Studio",
+  "description": "Professional script-to-prompt engine designed for creators and AI artists, ensuring character consistency and cinematic quality across scenes.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
